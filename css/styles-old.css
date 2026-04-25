@@ -67,7 +67,6 @@ main {
 */
 
 
-
 /* Main section features
 
 .section-features {
@@ -121,8 +120,7 @@ main {
         */
 
 
-
-/* Main section team*/
+/* Main section team
 
 .section-team {
     background-color: #f4f4fd;
@@ -209,11 +207,10 @@ main {
     text-align: center;
     color: #434455;
 }
+*/
 
 
-
-
-
+/* Main last section 
 
 .last-section {
     padding: 120px 0;
@@ -301,14 +298,10 @@ main {
     0 1px 1px 0 rgba(46, 47, 66, 0.16),
     0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
+*/
 
 
-
-
-
-
-
-/* Footer */
+/* Footer 
 
 .footer-background {
     background-color: #2e2f42;
@@ -318,10 +311,6 @@ main {
 .footer-container {
     display: flex;
     align-items: baseline
-}
-
-.footer-subscribe-container {
-    margin-left: auto;
 }
 
 .footer-logo {
@@ -392,6 +381,10 @@ main {
     background-color: #31d0aa;
 }
 
+.footer-subscribe-container {
+    margin-left: auto;
+}
+
 .footer-input {
     border: 1px solid #fff;
     border-radius: 4px;
@@ -459,14 +452,10 @@ main {
 .footer-form-button:focus {
     background-color: #31d0aa;
 }
+*/
 
 
-
-
-
-
-
-/* Modal */
+/* Modal 
 
 .backdrop {
     background: rgba(46, 47, 66, 0.4);
@@ -681,7 +670,7 @@ main {
 .form-button:focus {
     background-color: #404bbf;
 }
-
+*/
 
 
 
